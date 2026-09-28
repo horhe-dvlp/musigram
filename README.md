@@ -7,6 +7,8 @@
 An unofficial Telegram client for Android built around music. Sign in with your
 Telegram account and turn your channels, chats and bots into a music library.
 
+Website: https://musigram.org (mirror: https://musigram-app.ru)
+
 - **Wave**: an endless stream of recommendations tuned to your taste
 - **Search**: find tracks and artists
 - **Library**: tracks downloaded from Telegram channels, chats and bots
@@ -16,7 +18,7 @@ Telegram account and turn your channels, chats and bots into a music library.
 ### Download
 
 Get the latest version from **[Releases](../../releases/latest)** (the `musigram-*.apk` file).
-Short link: https://musigram-app.ru/download
+Short link: https://musigram.org/download (mirror: https://musigram-app.ru/download)
 
 ### Install
 
@@ -48,6 +50,8 @@ The source code is closed. This repository only hosts builds.
 Неофициальный Telegram-клиент для Android, созданный для музыки. Войдите
 в свой аккаунт Telegram, и ваши каналы, чаты и боты станут музыкальной медиатекой.
 
+Сайт: https://musigram.org (зеркало: https://musigram-app.ru)
+
 - **Волна**: бесконечный поток рекомендаций под ваш вкус
 - **Поиск**: поиск треков и исполнителей
 - **Медиа**: треки, скачанные из Telegram-каналов, чатов и ботов
@@ -57,7 +61,7 @@ The source code is closed. This repository only hosts builds.
 ### Скачать
 
 Последняя версия лежит в **[Releases](../../releases/latest)** (файл `musigram-*.apk`).
-Короткая ссылка: https://musigram-app.ru/download
+Короткая ссылка: https://musigram.org/download (зеркало: https://musigram-app.ru/download)
 
 ### Установка
 
